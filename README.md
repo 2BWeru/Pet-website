@@ -1,6 +1,6 @@
-# {Pet Website}
-#### {A website about Chef the german shepherd dog}, {Feb 22nd, 2022}
-#### By **{Betty Weru and Florence Kotohoyoh}**
+# Pet Website
+#### A website about Chef the german shepherd dog, Feb 22nd, 2022
+#### By **Betty Weru and Florence Kotohoyoh**
 <!-- ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
@@ -19,4 +19,4 @@
 For major changes, please open an issue first to discuss what you would like to change.}
 ### License
 <!-- *{Determine the license under which this application can be used.  See below for more details on licensing.}* -->
-Copyright (c) {2022} **{MIT}**
+Copyright (c) {2022} **MIT**
