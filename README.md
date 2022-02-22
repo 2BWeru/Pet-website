@@ -1,6 +1,7 @@
 # Pet Website
-#### A website about Chef the german shepherd dog, Feb 22nd, 2022
-#### By **Betty Weru and Florence Kotohoyoh**
+#### A website about Chef the german shepherd dog
+#### By 
+**Betty Weru and Florence Kotohoyoh**
 <!-- ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
@@ -15,8 +16,8 @@
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.} -->
 ## Support and contact details
-{Should you learn more about Chef or any other german shepherd dogs and want to share the information, pull requests are welcome.
-For major changes, please open an issue first to discuss what you would like to change.}
+Should you learn more about Chef or any other german shepherd dogs and want to share the information, pull requests are welcome.
+For major changes, please open an issue first to discuss what you would like to change.
 ### License
 <!-- *{Determine the license under which this application can be used.  See below for more details on licensing.}* -->
-Copyright (c) {2022} **MIT**
+Copyright (c) 2022 **MIT**
